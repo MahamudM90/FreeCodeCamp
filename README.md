@@ -1,2 +1,2 @@
 # Free-CodeCamp ⚗📦
-This Repo I Will Store My FreeCodeCamp Practice And Projects. 📦
+This is the Repo I Will Store My FreeCodeCamp Practice And Projects. 📦
